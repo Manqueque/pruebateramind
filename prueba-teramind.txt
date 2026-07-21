@@ -15,3 +15,5 @@ Re-test whitelist 21:47:51
 Re-test limpio 22:12:43
 
 Re-test whitelist v2 22:20:32
+
+Re-test v3 22:23:06
