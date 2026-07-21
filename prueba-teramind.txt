@@ -11,3 +11,5 @@ Reglas esperadas: 01 (Any Git Push) y, con URL inline, 03 (Direct Push to Public
 Linea extra para prueba de push --force (Regla 04).
 
 Re-test whitelist 21:47:51
+
+Re-test limpio 22:12:43
