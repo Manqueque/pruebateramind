@@ -1,0 +1,9 @@
+Archivo de prueba para validar la deteccion de Teramind (DLP / Git Exfiltration Public Repos V3).
+
+Contenido dummy, no sensible. Unico proposito: generar un git push hacia un repositorio
+personal NO incluido en la whitelist corporativa (github.com/Manqueque), para verificar que
+la politica de Teramind detecta y registra el evento.
+
+Fecha de la prueba: 2026-07-20
+Destino: github.com/Manqueque/pruebateramind (NO whitelisteado)
+Reglas esperadas: 01 (Any Git Push) y, con URL inline, 03 (Direct Push to Public Hosting).
