@@ -7,3 +7,5 @@ la politica de Teramind detecta y registra el evento.
 Fecha de la prueba: 2026-07-20
 Destino: github.com/Manqueque/pruebateramind (NO whitelisteado)
 Reglas esperadas: 01 (Any Git Push) y, con URL inline, 03 (Direct Push to Public Hosting).
+
+Linea extra para prueba de push --force (Regla 04).
