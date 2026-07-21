@@ -1,0 +1,5 @@
+Segundo archivo dummy para la prueba de Teramind.
+
+Esta prueba hace el push con la URL escrita directamente en la linea de comandos
+(git push https://github.com/Manqueque/...) para verificar la Regla 03
+"Direct Push to Public Hosting", ademas de la Regla 01.
