@@ -21,3 +21,5 @@ Re-test v3 22:23:06
 Re-test v4 22:25:42
 
 Bateria completa 22:28:53
+
+Control whitelist bloqueo 00:13:00
